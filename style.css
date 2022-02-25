@@ -1,0 +1,37 @@
+.steve{
+    background-color: darkorange; 
+
+}
+.home{
+    background-color: aqua;
+}
+.img{
+    position: absolute;
+}
+.blue {
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+.text{
+    background-color: aqua;
+   
+}
+.p{
+    background-color: coral;
+}
+.cletra{ 
+    color: blue;
+}
+.cletra2{
+    color: red;
+}
+.fondo{
+    background-color: darkorange;
+}
+.pc{
+    position: fixed ;
+    right: -60px;
+}
